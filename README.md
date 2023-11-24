@@ -62,7 +62,9 @@ Expense sharing feature extension for banking app. Implemented:
 ### Learnings
 
 ✅ 550-hour Bootcamp in Full Stack Development at [CodeOp](https://codeop.tech)
+
 ✅ Regular Expressions Course at [Codecademy](https://www.codecademy.com/profiles/mariagimenezbustos/certificates/9da8e26980d5139405439ee7578b8b69)
+
 🔛 Python Course at [Open University of Catalonia](https://matricula-abierta.uoc.edu/escuela-online-de-programacion)
 
 <!---
