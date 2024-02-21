@@ -65,7 +65,9 @@ Expense sharing feature extension for banking app. Implemented:
 
 ✅ Regular Expressions Course at [Codecademy](https://www.codecademy.com/profiles/mariagimenezbustos/certificates/9da8e26980d5139405439ee7578b8b69)
 
-🔛 Python Course at [Open University of Catalonia](https://matricula-abierta.uoc.edu/escuela-online-de-programacion)
+✅ TypeScript Course at [Codecademy](https://www.codecademy.com/profiles/mariagimenezbustos/certificates/56fb1e71303e37b643bb1905f31c8a09)
+
+✅ Python Course at [Open University of Catalonia](https://matricula-abierta.uoc.edu/escuela-online-de-programacion)
 
 <!---
 - 👀 I’m interested in ...
